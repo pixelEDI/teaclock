@@ -3,6 +3,14 @@
 A tea timer for preparing your perfect tea   
 <img src="https://github.com/pixelEDI/teaclock/blob/8353ea8434944ba63061e76e441f0206d0352ffc/teaclock.jpg" width="400">
 
+## Function
+1 Button 3 Functions:
+- Short press (between 50 and 200 ms): +30 seconds on Timer
+- Medium press (between 250 and 900 ms): -30 seconds on Timer
+- Long press (more than 950 ms): Timer Start
+
+When the timer ends, the piezo buzzer sounds 10 times and you can enjoy your perfectly timed tea.
+
 ## Hardware
 - For this project we used an ATtiny45.
 - TM1637 4 Digit 7-Segment Display Module
