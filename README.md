@@ -14,6 +14,6 @@ A tea timer for preparing your perfect tea
 <img src="https://github.com/pixelEDI/teaclock/blob/ad565b6cde4ed5b357ad0c128c58764fa9edeaa3/wiring.jpg" width="300">
 
 ## STL Files
-On Thingiverse (https://www.thingiverse.com/pixeledi)
+Check my Thingiverse: https://www.thingiverse.com/thing:5856858
 
 You like it? Then I would be very happy if you treat me to a coffee on [ko-fi.com/pixeledi](https://www.ko-fi.com/pixeledi)
