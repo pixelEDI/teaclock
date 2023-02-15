@@ -1,6 +1,6 @@
 # General info
 
-a tea timer for preparing your perfect tea   
+A tea timer for preparing your perfect tea   
 <img src="https://github.com/pixelEDI/teaclock/blob/8353ea8434944ba63061e76e441f0206d0352ffc/teaclock.jpg" width="400">
 
 ## Hardware
