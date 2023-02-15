@@ -9,6 +9,6 @@ a tea timer for preparing your perfect tea
 - Pushbutton
 - Switch
 
-<img src="https://github.com/pixelEDI/TikTok-Projects/blob/main/17_LightMemory/lightMemory_Steckplatine.jpg" width="300">
+<img src="https://github.com/pixelEDI/teaclock/blob/8353ea8434944ba63061e76e441f0206d0352ffc/teaclock.jpg" width="300">
 
 You like it? Then I would be very happy if you treat me to a coffee on [ko-fi.com/pixeledi](https://www.ko-fi.com/pixeledi)
